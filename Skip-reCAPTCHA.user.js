@@ -8,7 +8,7 @@
 // @author       LydiaAgute
 // @match        https://www.google.com/recaptcha/**
 // @grant        none
-// @run-at document-end
+// @run-at       document-end
 // ==/UserScript==
 
 (function () {
@@ -19,5 +19,5 @@
       clearInterval(clickCheck);
       document.querySelector(".recaptcha-checkbox-checkmark").click();
     }
-  }, 60);
+  }, 50);
 })();
