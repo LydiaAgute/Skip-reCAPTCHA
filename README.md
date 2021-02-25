@@ -1,10 +1,8 @@
-# Humble Key Restriction
+# Skip reCAPTCHA
 
 ## 描述
 
-查看 Humble Bundle Key 的激活激活限制插件
-
-它能帮你在 Humble 的 Download 界面显示 Key 的激活限制信息。
+帮助自动点击reCAPTCHA验证码的小工具
 
 ## 安装
 
